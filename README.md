@@ -40,7 +40,7 @@
 
 ```
 corePoolSize = 16
-maxPoolSize  = 20
+maxPoolSize  = 32
 queueSize    = 100
 keepAliveTime = 3 (c)
 minSpareThreads = 1
